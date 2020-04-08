@@ -8,6 +8,6 @@ This repo covers unit and integration testing for some JfreeChart package's modu
 - org.jfree.data.general.KeyedValueComparator
 - org.jfree.data.xy.MatrixSeries
 ## Testing packages used
-- JUnit
-- Mockito
+- JUnit.
+- Mockito.
 (Packages versions are in the pom.xml file)
